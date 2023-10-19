@@ -25,5 +25,36 @@ Lentrada/ salida:
 	informacion obtenida atraves de hardware ajeno al equipo como el raton,  teclado, microfono,etc o de salida como puede ser un monitor, unos cascos, parlantes, etc.
 	-casos simples: disco duro externo, pendrive
 
+								19/10/2023
+Lenguajes de programación:
+	lenguajes compilados: comprueba la compilacion del codigo, semantica, sintaxis,etc, y genera un codigo objeto, en ese codigo estan las instrucciones que entiende el precesador
+	lenguajes interpretados: estos lenguajes interpretan directamente el codigo escrito a lenguaje maquina, 
+TIENEN DOS TIPOS DE ANALISIS:
+	-Analisis Lexico:
+	-Analisis sintáctico: confirma que las palabra utilizadas son del mismo lenguaje, se confirma que la oracion tenga sentido y orden.
+Una vez se lleva a cabo la confirmacion,y no se identifican errores, se crea un codigo objeto,
+VENTAJAS DE LENGUAJES COMPILADOS: es muy eficiente, porq al ser compilado se compila para una maquina exacta, al ser interpretado, tiene la ventaja de ser versatil, pero tiene menos eficiencia,
+VENTAJAS DE LENGUAJES INTERPRETADOS: El codigo fuente se traduce directamente
+
+JAVA: Es lenguaje compilado e interpretado, sin embargo el codigo binario que genera no esta optimizado para todas las maquinas(necesita la maquina virtual de java), primero compila el codigo, y despues genera un codigo objeto que no es ejecutable por todas las maquinas, ya que es interpretado por la  maquina vistual de java.
+	VENTAJAS: estructurada y orientada a objetos, es relativamente facil de aprender y 
+
+TIPOS DE LENGUAJES:
+	segun la forma de operar:
+		-Declarativo:Logicos, Funcionales y Algebraicos
+		-Imperativo:Estructurados(C), Orientados a objetos(JAVA) y Multiparadigma(C++, javascript).
+	En funcion del nivel de abstracción 
+		-Bajo nivel (Ensamblador)
+		-Medio nivel (C)
+		-Alto nivel (C++, Java)
+Criterios para la seleccion de lenguaje:
+	-Campo de aplicacion: ¿que voya a hacer?
+	-Experiencia previa:
+	-Herramientas de desarrollo:
+	-Documentos disponibles:
+	-Base de usuarios:
+	-Reusabilidad:
+	-Transportabilidad:
+	-Imposición del cliente:
 
  
