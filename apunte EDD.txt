@@ -1,2 +1,29 @@
 primer trimestre
+cpu-> RAM -> ALMACENAMIENTO MASIVO -> 
 
+RELACION ENTRE PROGRAMAS CON COMPONENETE DE UN S.I.
+
+aprender diferenciar entre codigo feunte,ejecuteble y objeto
+	ejecutable: archivo en codigo binario que si es ejecutable en foramto ".exe"
+	fuente: archivo de texto legible en un leguaje de programación
+	objeto: archivo en codigo binario que no es ejecutable
+
+
+Software de sistema, de aplicacion y de desarrollo.
+	de sistema: serie de programa preinstalados en un ordenador para interactuar con el sistema operativo
+	de aplicación:programa que se instala en un ordenador para realizar tareas que necesite el usuario.
+	de desarrollo:es un  programa que permite al ususario crear otros programas o aplicaciones
+
+FIRMWARE(programa ocupado de controlar pequeños dispositivos)
+
+memoria almacenamiento: existen dos tipos siendo la RAM utilizada para el moviemiento de la informacion y la memoria de estado solido como pueden ser discos duros,
+ tarjetaas ssd, o ssd m2, que son mas lentas, pero tienen mucha mas capacidad de almacenamiento que la RAM
+	-RAM: volatil
+	-SOLIDO: lenta
+
+Lentrada/ salida:
+	informacion obtenida atraves de hardware ajeno al equipo como el raton,  teclado, microfono,etc o de salida como puede ser un monitor, unos cascos, parlantes, etc.
+	-casos simples: disco duro externo, pendrive
+
+
+ 
